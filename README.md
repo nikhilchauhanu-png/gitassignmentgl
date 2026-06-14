@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0283-move-zeroes) |
@@ -50,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
