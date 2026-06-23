@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0383-ransom-note) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nikhilchauhanu-png/gitassignmentgl/tree/master/0242-valid-anagram) |
